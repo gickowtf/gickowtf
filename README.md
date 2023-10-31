@@ -5,3 +5,4 @@
 
 ### 🔭 I’m currently working on ...
 - some Home Assistant Integrations
+- my vCard
