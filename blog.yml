@@ -1,0 +1,21 @@
+name: Blog in Readme
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * 0"  # So 00:00 UTC 
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1.9.3
+        with:
+          feed_list: "https://3ar.io/blog/feed/rss/"
+          max_post_count: 5
+          committer_username: github-actions[bot]
+          committer_email: 41898282+github-actions[bot]@users.noreply.github.com
