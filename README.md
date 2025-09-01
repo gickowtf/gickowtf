@@ -1,6 +1,6 @@
 ### Hey there, I'm Mario
 
-📫 How to reach me: [@gicko](https://mastodon.online/@gicko) on Mastodon
+📫 How to reach me: [@gicko](https://mastodon.online/@gicko) on <a rel="me" href="https://mastodon.online/@gicko">Mastodon</a>
 
 I´m working with ❤️
 
