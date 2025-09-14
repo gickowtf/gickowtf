@@ -11,11 +11,11 @@ I´m working with ❤️
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Skadis Halter Bosch GSB 12V-35](https://3ar.io/blog/skadis-halter-bosch-gsb-12v-35/)
+- [Skadis 12V Bosch Akku Halter](https://3ar.io/blog/skadis-12v-bosch-akku-halter/)
 - [HA Blueprint Automatische Batteriewarnung für alle Geräte](https://3ar.io/blog/automatische-batteriewarnung-fur-alle-gerate/)
 - [Gewürzhalter für JUST SPICES und HI SPICE](https://3ar.io/blog/gewurzhalter-fur-just-spices-und-hi-spice/)
 - [iOS Erinnerungen mit Home Assistant verknüpfen – dank Apple Kurzbefehlen](https://3ar.io/blog/ios-erinnerungen-mit-home-assistant-verknupfen-dan/)
-- [QR-Code Generator](https://3ar.io/blog/qr-code-generator/)
-- [Kalorienrechner](https://3ar.io/blog/kalorienrechner/)
 <!-- BLOG-POST-LIST:END -->
 
 -------
