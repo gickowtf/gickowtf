@@ -3,7 +3,7 @@ name: Blog in Readme
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * 0"  # So 00:00 UTC
+    - cron: "0 15 * * 0"  # So 15:00 UTC
 
 permissions:
   contents: write
