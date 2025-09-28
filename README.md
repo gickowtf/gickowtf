@@ -11,11 +11,11 @@ I´m working with ❤️
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Neue 3D Druck Galerie](https://3ar.io/blog/neue-3d-druck-galerie/)
 - [Changelog-System](https://3ar.io/blog/changelog-system/)
 - [Dekorativer Schriftzug Beste Erzieherin](https://3ar.io/blog/dekorativer-schriftzug-beste-erzieherin/)
 - [„Ich habe nichts zu verbergen“ – wirklich nicht?](https://3ar.io/blog/ich-habe-nichts-zu-verbergen-wirklich-nicht/)
 - [Skadis Halter Bosch GSB 12V-35](https://3ar.io/blog/skadis-halter-bosch-gsb-12v-35/)
-- [Skadis 12V Bosch Akku Halter](https://3ar.io/blog/skadis-12v-bosch-akku-halter/)
 <!-- BLOG-POST-LIST:END -->
 
 -------
