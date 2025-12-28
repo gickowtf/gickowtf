@@ -11,11 +11,11 @@ I´m working with ❤️
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Lernen, Üben, Wiederholen – QuizApp](https://3ar.io/blog/lernen-uben-wiederholen-quizapp/)
 - [LED Invader –  1D Arcade Game auf RP2040 Zero](https://3ar.io/blog/led-invader-1d-arcade-game-auf-rp2040-zero/)
 - [Meine Erfahrungen mit Mastodon – Tipps für Einsteiger und persönliche Eindrücke](https://3ar.io/blog/meine-erfahrung-mit-mastodon/)
 - [Neue 3D Druck Galerie](https://3ar.io/blog/neue-3d-druck-galerie/)
 - [Changelog-System](https://3ar.io/blog/changelog-system/)
-- [Dekorativer Schriftzug Beste Erzieherin](https://3ar.io/blog/dekorativer-schriftzug-beste-erzieherin/)
 <!-- BLOG-POST-LIST:END -->
 
 -------
